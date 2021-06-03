@@ -2,7 +2,7 @@
 - 👀 I’m interested in Creative Coding
 - 🌱 I’m currently learning Java, HTML, CSS, Motion Graphics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/deeprakesh/
 
 <!---
 Deep0902/Deep0902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
