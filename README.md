@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deep0902
-- 👀 I’m interested in Creative Coding
-- 🌱 I’m currently learning Java, HTML, CSS, Motion Graphics
+- 👀 Interested in Creative Coding
+- 🌱 Currently learning Java, HTML, CSS, Motion Graphics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/deeprakesh/
 
