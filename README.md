@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deep0902
+- 👋 Hi, I’m Deep!
 - 👀 Interested in Creative Coding
 - 🌱 Currently learning Java, HTML, CSS, Motion Graphics
 - 📫 How to reach me https://www.linkedin.com/in/deeprakesh/
