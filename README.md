@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deep</h1>
 <h3 align="center">Pre-final year student with passion to learn about Front end & UI development!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deep0902&label=Profile%20views&color=0e75b6&style=flat" alt="deep0902" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep0902&label=Profile%20views&color=0e75b6&style=flat" alt="deep0902" /> </p> -->
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deep0902" alt="deep0902" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deep0902" alt="deep0902" /></a> </p>
 
 - 🔭 I’m currently working on **Front end & UI development**
 
