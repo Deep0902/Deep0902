@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deep</h1>
+<h1 align="center">Hey there, I'm Deep! <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></a></h1>
+
 <h3 align="center">Pre-final year student with passion to learn about Front end & UI development!</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep0902&label=Profile%20views&color=0e75b6&style=flat" alt="deep0902" /> </p> -->
