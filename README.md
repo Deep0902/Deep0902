@@ -5,7 +5,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep0902&label=Profile%20views&color=0e75b6&style=flat" alt="deep0902" /> </p> -->
 
 <br>
-<h3 align="left">About me 🙋🏻‍♂️:</h3>
+<h3>About me 🙋🏻‍♂️:</h3>
+
 
 - 🔭 I’m currently working on **Front end & UI development**
 
@@ -13,8 +14,10 @@
 
 - 👨‍💻 Find all of my projects [Here!](https://github.com/Deep0902?tab=repositories)
 
-<h3 align="left">Languages and Tools 🛠️:</h3>
-<p style="align: center; border: 1px ;"> 
+
+
+<h3 align="center">Languages and Tools 🛠️:</h3>
+<p align="center">
     <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
     <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
     <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -37,8 +40,8 @@
 </p>
 <br>
 
-<h3 align="left">Reach me 🤝🏻:</h3>
-<p align="left">
+<h3 align="center">Reach me 🤝🏻:</h3>
+<p align="center">
     <a href="mailto:deeptank09@gmail.com"><img src="https://camo.githubusercontent.com/d6e6bd1947fee65b577367d94e644161abacc7bcde79c3a22d5dbf617e43949b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61696c2d626c61636b3f7374796c653d666c6174266c6f676f3d676d61696c266c6162656c436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/-Mail-black?style=flat&amp;logo=gmail&amp;labelColor=black" style="max-width:100%;"></a>
     <a href="https://www.linkedin.com/in/deeprakesh/" rel="nofollow"><img src="https://camo.githubusercontent.com/7d0530360ae5fb5cd0a4d9281db4d99ee6e7b6892b0333452e24af76e5249ad4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564496e266c6162656c436f6c6f723d626c7565" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=linkedIn&amp;labelColor=blue" style="max-width:100%;"></a>
     <a href="https://t.me/DeepRakesh" rel="nofollow"><img src="https://camo.githubusercontent.com/737e0b1d87203403dd132ce11901574552acaca1074dde24ed41bd15c53591bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d626c61636b3f7374796c653d666c6174266c6f676f3d74656c656772616d" data-canonical-src="https://img.shields.io/badge/-Telegram-black?style=flat&amp;logo=telegram" style="max-width:100%;"></a>
