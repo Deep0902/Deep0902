@@ -29,11 +29,11 @@
     <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-
+<br>
 
 <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=deep0902&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="deep0902" />
-   <img src="https://github-readme-stats.vercel.app/api?username=deep0902&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="deep0902" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep0902&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="deep0902" />
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deep0902&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="deep0902" />
 </p>
 <br>
 
