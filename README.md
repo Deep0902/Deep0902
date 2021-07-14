@@ -38,7 +38,7 @@
 
 <br>
 
-<h3 align="left">Reach me 🤝🏻</h3>
+<h3 align="left">Reach me 🤝🏻:</h3>
 <p align="left">
     <a href="mailto:deeptank09@gmail.com"><img src="https://camo.githubusercontent.com/d6e6bd1947fee65b577367d94e644161abacc7bcde79c3a22d5dbf617e43949b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61696c2d626c61636b3f7374796c653d666c6174266c6f676f3d676d61696c266c6162656c436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/-Mail-black?style=flat&amp;logo=gmail&amp;labelColor=black" style="max-width:100%;"></a>
     <a href="https://www.linkedin.com/in/deeprakesh/" rel="nofollow"><img src="https://camo.githubusercontent.com/7d0530360ae5fb5cd0a4d9281db4d99ee6e7b6892b0333452e24af76e5249ad4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564496e266c6162656c436f6c6f723d626c7565" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=linkedIn&amp;labelColor=blue" style="max-width:100%;"></a>
