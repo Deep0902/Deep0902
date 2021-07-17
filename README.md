@@ -27,11 +27,11 @@
     <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
     <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-     <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Adobe Photoshop" width="40" height="40"/> </a>   
+    <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>    
     <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png" alt="Adobe After Effects" width="40" height="40"/> </a> 
     <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png" alt="Adobe Premiere Pro" width="40" height="40"/> </a>
     <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.adobe.com/in/products/audition.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-audition.png" alt="Adobe Audition" width="40" height="40"/> </a>
+    <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Adobe Photoshop" width="40" height="40"/> </a>
 </p>
 
 <br>
