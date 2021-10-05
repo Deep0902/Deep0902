@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C++, Java, HTML, CSS, Motion Graphics**
 
-- 👨‍💻 Find all of my projects [Here!](https://github.com/Deep0902?tab=repositories)
+- 👨‍💻 Find all of my Repositories [Here!](https://github.com/Deep0902?tab=repositories)
 
 
 
