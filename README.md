@@ -8,7 +8,7 @@
 <h3>About me 🙋🏻‍♂️:</h3>
 
 
-- 🔭 I’m currently working on **Front end & UI development**
+- 🔭 I’m currently working on **Software Design and Development**
 
 - 🌱 I’m currently learning **C++, Java, HTML, CSS, Motion Graphics**
 
