@@ -1,4 +1,4 @@
-<h1 align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></a> Hey there, I'm Deep! </h1>
+<h1 align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></a> Hey there, I am Deep! </h1>
 
 <h3 align="center">Pre-final year student with passion to learn about Front end & UI development!</h3>
 
