@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Software Design and Development**
 
-- 🌱 I’m currently learning **Figma, Java, HTML, CSS, Motion Graphics**
+- 🌱 I’m currently learning **Figma, HTML, CSS, Java, Motion Graphics**
 
 - 👨‍💻 Find all of my Repositories [Here!](https://github.com/Deep0902?tab=repositories)
 
