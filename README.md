@@ -44,7 +44,7 @@
 </p>
 <br>
 
-<h3 align="center">Reach me 🤝🏻:</h3>
+<h3 align="center">Reach out to me 🤝🏻:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/deeprakesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deeprakesh/" height="30" width="40" /></a>
   </p>
