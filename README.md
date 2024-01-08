@@ -1,6 +1,6 @@
 <h1 align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></a> Hey there, I am Deep! </h1>
 
-<h3 align="center">Working at LTIMindtree with passion to learn about UI/UX designing!</h3>
+<h3 align="center">Working at LTIMindtree with a passion to learn about UI/UX designing!</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep0902&label=Profile%20views&color=0e75b6&style=flat" alt="deep0902" /> </p> -->
 
