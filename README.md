@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Software Design and Development**
 
-- 🌱 I’m currently learning **UX/UI Designing, Figma, HTML, CSS, Java, Motion Graphics**
+- 🌱 I’m currently learning **HTML, CSS, React.js, UX/UI Designing, Figma, Motion Graphics**
 
 - 👨‍💻 Find all of my Repositories [Here!](https://github.com/Deep0902?tab=repositories)
 
