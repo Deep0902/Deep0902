@@ -1,20 +1,11 @@
-<h1 align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></a> Hey there, I am Deep! </h1>
-
-<h3 align="center">Working at LTIMindtree with a passion for learning about designing & development!</h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep0902&label=Profile%20views&color=0e75b6&style=flat" alt="deep0902" /> </p> -->
-
-<br>
-<h3>About me 🙋🏻‍♂️:</h3>
+# 💫 About Me:
+🔭 I’m currently working on LLD Software Design and Development<br><br>🌱 I’m currently learning HTML, CSS, React.js, UX/UI Designing, Figma, Motion Graphics<br><br>👨‍💻 Find all of my Repositories Here!
 
 
-- 🔭 I’m currently working on **Software Design and Development**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deeprakesh/) 
 
-- 🌱 I’m currently learning **HTML, CSS, React.js, UX/UI Designing, Figma, Motion Graphics**
-
-- 👨‍💻 Find all of my Repositories [Here!](https://github.com/Deep0902?tab=repositories)
-
-
+# 💻 Tech Stack:
 
 <h3 align="center">Languages and Tools 🛠️:</h3>
 <p align="center">
@@ -36,30 +27,15 @@
     <a style="padding: 10pt; height: 50pt; width: 500pt;" href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Adobe Photoshop" width="40" height="40"/> </a>
 </p>
 
-<br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Deep0902&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Deep0902&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deep0902&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deep0902&show_icons=true&title_color=25CCF7&icon_color=bb2acf&text_color=f1f2f6&bg_color=151515" alt="deep0902" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep0902&show_icons=true&title_color=25CCF7&icon_color=bb2acf&text_color=f1f2f6&bg_color=151515" alt="deep0902" />
-</p>
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Deep0902&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="center">Reach out to me 🤝🏻:</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/deeprakesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deeprakesh/" height="30" width="40" /></a>
-  </p>
-<h3 align="center">Some random stuff I did:</h3>
-<p align="center">
-   <a href="https://www.youtube.com/c/https://youtube.com/deeprakesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/deeprakesh" height="30" width="40" /></a>
-  </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Deep0902&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deeprakesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deeprakesh/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/deeprakesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/deeprakesh" height="30" width="40" /></a>
-</p> -->
-
-<!---
-Deep0902/Deep0902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
