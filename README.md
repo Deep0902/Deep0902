@@ -9,8 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deeprakesh/)
 
 # 💻 Tech Stack:
-
-<h3 align="center">Languages and Tools 🛠️:</h3>
 <p align="center">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
