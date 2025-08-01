@@ -2,7 +2,6 @@
 🔭 I’m currently working on LLD Software Design and Development<br><br>🌱 I’m currently learning HTML, CSS, React.js, UX/UI Designing, Figma, Motion Graphics<br><br>👨‍💻 Find all of my Repositories Here!
 
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deeprakesh/) 
 
 # 💻 Tech Stack:
