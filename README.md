@@ -57,7 +57,7 @@
     </a>
 </p>
 
-<h1 align="center">📊 GitHub Stats:</h1>
+<h1>📊 GitHub Stats:</h1>
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Deep0902&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
