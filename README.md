@@ -68,14 +68,14 @@
 
 </div>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2>🏆 GitHub Trophies</h2>
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=Deep0902&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
+<h3>🔝 Top Contributed Repo</h3>
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=Deep0902&limit=5&theme=dark&combine_all_yearly_contributions=true)
