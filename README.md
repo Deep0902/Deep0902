@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently working on LLD Software Design and Development
 
-🌱 I'm currently learning HTML, CSS, React.js, UX/UI Designing, Figma, Motion Graphics
+🌱 I'm currently learning React.js, Angular, UX/UI Designing, Figma, Motion Graphics
 
 👨‍💻 Find all of my Repositories Here!
 
