@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm a Frontend Developer @ LTIMindtree
 
-🌱 I'm currently learning React.js, Angular with LLD Software Design and Development alongside UX/UI Designing, Figma, Motion Graphics!
+🌱 I'm currently learning React.js, Angular with LLD, Software Design and Development alongside UX/UI Designing, Figma, Motion Graphics!
 
 👨‍💻 Find all of my Repositories Here!
 
