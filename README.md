@@ -3,7 +3,7 @@
 
 🌱 I'm currently learning React.js, Angular with LLD, Software Design and Development alongside UX/UI Designing, Figma, Motion Graphics!
 
-👨‍💻 Find all of my Repositories Here!
+👨‍💻 Find all of my Repositories [here!](https://github.com/Deep0902?tab=repositories)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deeprakesh/)
