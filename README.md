@@ -1,5 +1,7 @@
-# 💫 [About me:](https://url-shortner-amber-pi.vercel.app/)
+# 💫 About Me: 
 🔭 I'm a Frontend Developer @ LTIMindtree[here!](https://github.com/Deep0902?tab=repositories)
+
+💼 Check out my [Portfolio](https://deep0902.github.io/resume/)
 
 🌱 I'm currently learning React.js, Angular with LLD, Software Design and Development alongside UX/UI Designing, Figma, Motion Graphics!
 
