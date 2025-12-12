@@ -1,5 +1,5 @@
 # 💫 About Me: 
-🔭 I'm a Frontend Developer @ LTIMindtree[here!](https://github.com/Deep0902?tab=repositories)
+🔭 I'm a Frontend Developer @ LTIMindtree
 
 💼 Check out my [Portfolio](https://deep0902.github.io/resume/)
 
