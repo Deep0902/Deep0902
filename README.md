@@ -1,9 +1,9 @@
 # 💫 About Me: 
-🔭 I'm a Frontend Developer @ LTIMindtree
+🔭 I'm a Senior Frontend Developer @ LTIMindtree
 
 💼 Check out my [Portfolio](https://deep0902.github.io/resume/)
 
-🌱 I'm currently learning React.js, Angular with LLD, Software Design and Development alongside UX/UI Designing, Figma, Motion Graphics!
+🌱 I'm currently learning NestJS ReactJS, Angular with Software Design and Development alongside UX/UI Designing, Figma, Motion Graphics!
 
 👨‍💻 Find all of my Repositories [here!](https://github.com/Deep0902?tab=repositories)
 
