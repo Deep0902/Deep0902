@@ -1,7 +1,7 @@
 # 💫 About Me: 
 🔭 I'm a Senior Frontend Developer @ LTIMindtree
 
-💼 Check out my [Portfolio](https://deep0902.github.io/resume/)
+💼 Check out my [Portfolio](https://deeps-resume.vercel.app/about)
 
 🌱 I'm currently learning NestJS ReactJS, Angular with Software Design and Development alongside UX/UI Designing, Figma, Motion Graphics!
 
